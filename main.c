@@ -5,4 +5,5 @@ int main(){
 
     printf("Введите два числа: ");
     scanf ("%d %d", &a, &b);
+    printf("Сумма равна %d\n", a+b);
 }
