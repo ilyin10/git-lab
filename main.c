@@ -1,1 +1,5 @@
-// my first C programm 
+#include <stdio.h>
+
+int main(){
+    printf("Hello, world!\n");
+}
