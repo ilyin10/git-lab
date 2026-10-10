@@ -1,5 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hello, world!\n");
+    int a, b;
+
+    printf("Введите два числа: ");
+    scanf ("%d %d", &a, &b);
 }
